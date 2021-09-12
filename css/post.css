@@ -1,0 +1,30 @@
+h2 {
+	margin: 15px 0 10px;
+}
+article {
+	line-height: 170%;
+	text-align: left;
+}
+article a {
+	color: #169;
+	text-decoration: underline;
+}
+#intro {
+	font-size: small;
+}
+strong,pre {
+	color: #c00;
+}
+pre {
+	line-height: 150%;
+	padding: 8px 15px;
+	background: #eee;
+	white-space: pre-wrap;
+	tab-size: 4;
+}
+.sitea {
+    color: #10b;
+}
+.siteb {
+    color: #077;
+}

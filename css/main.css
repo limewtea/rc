@@ -1,0 +1,33 @@
+body {
+	max-width: 900px;
+	margin: 0 auto;
+	text-align: center;
+	word-break: break-all;
+}
+header {
+	margin: 10px 50px;
+}
+img {
+	max-width: 100%;
+}
+h1 {
+	margin: 5px 0 10px;
+}
+nav {
+	font-size: 0;
+}
+nav,main {
+	margin: 15px 50px;
+}
+nav>a {
+	margin: 6px;
+	font-size: large;
+	font-weight: bold;
+}
+a {
+	color: #000;
+	text-decoration: none;
+}
+a:hover {
+	color: #39d;
+}

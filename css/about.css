@@ -1,0 +1,11 @@
+h2 {
+	margin: 15px 0 25px;
+}
+article {
+	line-height: 170%;
+	text-align: left;
+}
+article a {
+	color: #169;
+	text-decoration: underline;
+}

@@ -1,0 +1,17 @@
+h2 {
+	margin: 15px 0 25px;
+}
+article {
+	text-align: left;
+}
+article>div {
+	margin: 5px 0 10px;
+}
+article a {
+	color: #a08;
+}
+time {
+	display: list-item;
+	font-size: small;
+	color: #d30;
+}
